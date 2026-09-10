@@ -1,0 +1,35 @@
+{
+    "name": "AgriSync - Rantai Pasok Pertanian Digital",
+    "short_name": "AgriSync",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#263914",
+    "theme_color": "#2E7D32",
+    "description": "Platform Rantai Pasok Digital Pertanian - Menghubungkan Petani & Pebisnis Indonesia",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
